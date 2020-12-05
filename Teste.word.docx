@@ -1,6 +1,10 @@
 test{
 teste mais uma vez
+<<<<<<< HEAD
 
  commit branchB
 
+=======
+commit branchB
+>>>>>>> d45052baae351a6557516c4cd7957f347f5826ac
 }
